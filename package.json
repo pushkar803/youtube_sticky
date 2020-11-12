@@ -1,0 +1,25 @@
+{
+  "name": "youtube_sticky",
+  "version": "1.0.0",
+  "description": "sticky youtube player for windows and linux",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cliqz/adblocker-electron": "^1.18.4",
+    "@cliqz/adblocker-webextension": "^1.18.4",
+    "cross-fetch": "^3.0.6",
+    "electron-browser-window-options": "^1.0.4",
+    "electron-drag": "^2.0.0",
+    "electron-positioner": "^4.1.0",
+    "electron-window-manager": "^1.0.6",
+    "electron-window-state": "^5.0.3"
+  },
+  "devDependencies": {
+    "electron": "^10.1.5",
+    "electron-packager": "^15.1.0"
+  }
+}
