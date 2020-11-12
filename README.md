@@ -7,8 +7,8 @@ Enjoy youtube without browser on any platforms in background.
 make sure you have electron installed.
 check https://www.tutorialspoint.com/electron/electron_installation.htm
 
-npm install
-electron ./main.js
+-npm install
+-electron ./main.js
 
 >>>>>>>To build:
 check https://www.tutorialspoint.com/electron/electron_packaging_apps.htm
